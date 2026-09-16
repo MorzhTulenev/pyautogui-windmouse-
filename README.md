@@ -1,2 +1,3 @@
 # puautogui-windmouse-
-A Python implementation of the famous WindMouse algorithm for the pyautogui library.
+An implementation of the well-known **WindMouse** mouse movement algorithm in **Python** using the `pyautogui` library.
+![Python](https://shields.io) ![License: MIT](https://shields.io)
