@@ -5,7 +5,8 @@ An implementation of the well-known **WindMouse** mouse movement algorithm in **
 
 
 ## code:
- ```import pyautogui
+ ```
+  import pyautogui
   import time
   import math
   import random
